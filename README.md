@@ -1,0 +1,2 @@
+# LatihanGit
+Untuk Latihan aja
